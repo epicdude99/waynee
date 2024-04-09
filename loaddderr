@@ -1,5 +1,5 @@
 if game.PlaceId == 537413528 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/epicdude99/waynee/main/loaderrr", true))()
 elseif game.PlaceId == 16389395869 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/x3fall3nangel/FallAngelHub/main/Anime%20Battlegrounds%20X.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/epicdude99/waynee/main/adustytrip"))()
 end
