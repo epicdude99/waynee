@@ -1,5 +1,5 @@
 if game.PlaceId == 537413528 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/epicdude99/waynee/main/loaderrr", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/epicdude99/waynee/main/build_a_boat_for_treausure", true))()
 elseif game.PlaceId == 16389395869 or game.PlaceId == 16389398622 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/epicdude99/waynee/main/adustytrip"))()
 end
